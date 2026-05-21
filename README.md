@@ -19,7 +19,7 @@ Datasets included:
 - Milk production
 - Yogurt production
 - State lookup table
-- 
+  
 ## Repository structure
 
 - `data/raw/`: original CSV datasets.
